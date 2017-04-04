@@ -1,0 +1,17 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "upload server",
+  "main": "server.js",
+  "repository": "git@github.com:mglcarmona/upload-server-react-native.git",
+  "author": "@mglcarmona",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cloudinary": "^1.8.0",
+    "datauri": "^1.0.5",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.3",
+    "multer": "^1.3.0"
+  }
+}
